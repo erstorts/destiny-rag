@@ -1,3 +1,4 @@
+from anthropic import Anthropic
 from fasthtml.common import *
 from claudette import *
 from pinecone import Pinecone
@@ -5,8 +6,14 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 pc = Pinecone(api_key=os.getenv('PINECONE_API_KEY'))
+claude_api_key = os.getenv('ANTHROPIC_API_KEY')
+if not claude_api_key:
+    raise ValueError("ANTHROPIC_API_KEY environment variable is not set")
 index_name = "quickstart-py"
 dense_index = pc.Index(index_name)
+
+
+
 
 # Set up the app, including daisyui and tailwind for the chat component
 tlink = Script(src="https://cdn.tailwindcss.com"),
