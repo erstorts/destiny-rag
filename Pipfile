@@ -8,6 +8,7 @@ pandas = "*"
 pymarc = "*"
 streamlit = "*"
 openai = "*"
+pinecone = "*"
 
 [dev-packages]
 ipykernel = "*"

@@ -1,4 +1,3 @@
-import time
 from openai import OpenAI
 import streamlit as st
 from pinecone import Pinecone
