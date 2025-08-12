@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 pymarc = "*"
+streamlit = "*"
+openai = "*"
 
 [dev-packages]
 ipykernel = "*"
