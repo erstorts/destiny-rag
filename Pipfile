@@ -9,6 +9,7 @@ pymarc = "*"
 streamlit = "*"
 openai = "*"
 pinecone = "*"
+segment-analytics-python = "*"
 
 [dev-packages]
 ipykernel = "*"
