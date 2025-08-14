@@ -10,6 +10,7 @@ streamlit = "*"
 openai = "*"
 pinecone = "*"
 segment-analytics-python = "*"
+boto3 = "*"
 
 [dev-packages]
 ipykernel = "*"
