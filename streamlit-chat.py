@@ -7,7 +7,8 @@ import json
 analytics.write_key = st.secrets["SEGMENT_API_KEY"]
 pc = Pinecone()
 client = OpenAI()
-analytics.send = False
+# uncomment this to disable analytics
+# analytics.send = False
 index_name = "whitman"
 dense_index = pc.Index(index_name)
 
