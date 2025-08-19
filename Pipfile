@@ -11,6 +11,8 @@ openai = "*"
 pinecone = "*"
 segment-analytics-python = "*"
 boto3 = "*"
+transformers = "*"
+torch = "*"
 
 [dev-packages]
 ipykernel = "*"

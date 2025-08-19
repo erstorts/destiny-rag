@@ -9,7 +9,8 @@
     ],
     "authors": [
       "Ripley's Entertainment Inc."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422215385",
@@ -27,7 +28,8 @@
     ],
     "authors": [
       "Ripley Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422215458",
@@ -39,7 +41,8 @@
     ],
     "authors": [
       "Ripley's Entertainment Inc."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439273218",
@@ -51,7 +54,8 @@
     ],
     "authors": [
       "Irene Dunlop Jack Canfield Patty Hansen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1933834544",
@@ -62,7 +66,8 @@
     ],
     "authors": [
       "Anita Croy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1933834560",
@@ -73,7 +78,8 @@
     ],
     "authors": [
       "Anita Croy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305262",
@@ -85,7 +91,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0887767982",
@@ -97,7 +104,8 @@
     ],
     "authors": [
       "National Geographic Learning"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305254",
@@ -110,7 +118,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305238",
@@ -123,7 +132,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305130",
@@ -135,7 +145,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "161530522X",
@@ -147,7 +158,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0792227158",
@@ -162,7 +174,8 @@
     ],
     "authors": [
       "Rhoda Blumberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0395687071",
@@ -178,7 +191,8 @@
     ],
     "authors": [
       "Kelly Trumble"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1558746161",
@@ -191,7 +205,8 @@
       "Jack Canfield",
       "Mark Victor Hansen",
       "Kimberly Kirberger"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0875186580",
@@ -208,7 +223,8 @@
     ],
     "authors": [
       "Kenny Mann"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1558747613",
@@ -222,7 +238,8 @@
       "Jack Canfield",
       "Mark Victor Hansen",
       "Kimberly Kirberger"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0531071715",
@@ -234,7 +251,8 @@
     ],
     "authors": [
       "New York Public Library"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0805037020",
@@ -249,7 +267,8 @@
     ],
     "authors": [
       "Jacob Boas"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1558744630",
@@ -261,7 +280,8 @@
     ],
     "authors": [
       "Jack Canfield"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1936309025",
@@ -273,7 +293,8 @@
     ],
     "authors": [
       "Walter Foster (Firm) Staff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592700217",
@@ -285,7 +306,8 @@
     ],
     "authors": [
       "John Malam"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "083685523X",
@@ -297,7 +319,8 @@
     ],
     "authors": [
       "Frank Tarsitano"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1583407219",
@@ -309,7 +332,8 @@
     ],
     "authors": [
       "Stewart Ross"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1583407227",
@@ -321,7 +345,8 @@
     ],
     "authors": [
       "Richard Dargie"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859804",
@@ -334,7 +359,8 @@
     ],
     "authors": [
       "Senan Molony"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836868560",
@@ -347,7 +373,8 @@
     ],
     "authors": [
       "Fiona MacDonald"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0803730942",
@@ -360,7 +387,8 @@
     ],
     "authors": [
       "Tedd Arnold, Harry Bliss, David Catrow, Marla Frazee, Jerry Pinkney, Chris Raschka, Judy Schachner, David Shannon, Mo Willems Jon Agee"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0753456885",
@@ -372,7 +400,8 @@
     ],
     "authors": [
       "James Berry"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0688162517",
@@ -384,7 +413,8 @@
     ],
     "authors": [
       "Paul B. Janeczko"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756512514",
@@ -396,7 +426,8 @@
     ],
     "authors": [
       "Steve Parker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592967051",
@@ -408,7 +439,8 @@
     ],
     "authors": [
       "Pam Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1558745726",
@@ -424,14 +456,16 @@
       "Mark Victor Hansen",
       "Marty Becker D.V.M.",
       "Carol Kline"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1417013958",
     "synopsis": "-999",
     "title": "October Sky",
     "subjects": "-999",
-    "authors": "-999"
+    "authors": "-999",
+    "series": "None"
   },
   {
     "_id": "1592967078",
@@ -443,7 +477,8 @@
     ],
     "authors": [
       "Pam Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592967094",
@@ -455,7 +490,8 @@
     ],
     "authors": [
       "Pam Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0753458527",
@@ -467,7 +503,8 @@
     ],
     "authors": [
       "Belinda Hollyer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0670061417",
@@ -481,7 +518,8 @@
     "authors": [
       "Ellen Datlow",
       "Terri Windling"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1933834552",
@@ -492,7 +530,8 @@
     ],
     "authors": [
       "Anita Dalal"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0788884026",
@@ -524,7 +563,8 @@
       "Copyright Collection (library Of Congress)",
       "Auschwitz (concentration Camp)",
       "Boyne, John"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1432961039",
@@ -536,7 +576,8 @@
     ],
     "authors": [
       "Robin Doak"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0061963755",
@@ -548,7 +589,8 @@
     ],
     "authors": [
       "Jon Scieszka"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756545633",
@@ -560,7 +602,8 @@
     ],
     "authors": [
       "Pamela Jain Dell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0375911774",
@@ -576,7 +619,8 @@
     ],
     "authors": [
       "Anne Frank House"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1597141607",
@@ -592,7 +636,8 @@
     ],
     "authors": [
       "Heather C. Lindquist"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0789488833",
@@ -603,7 +648,8 @@
     ],
     "authors": [
       "Peter Chrisp"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756506832",
@@ -622,7 +668,8 @@
     ],
     "authors": [
       "Philip Brooks"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737758929",
@@ -633,7 +680,8 @@
     ],
     "authors": [
       "Judeen Bartos"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0816039194",
@@ -645,7 +693,8 @@
     ],
     "authors": [
       "Duncan Peterson Publishing Ltd"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0805062238",
@@ -656,7 +705,8 @@
     ],
     "authors": [
       "Liz Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0792270711",
@@ -668,7 +718,8 @@
     ],
     "authors": [
       "Barbara Brenner"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0688164153",
@@ -680,7 +731,8 @@
     ],
     "authors": [
       "Belinda Rochelle"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439488036",
@@ -696,7 +748,8 @@
     ],
     "authors": [
       "Staff Of The New York Times"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0822517442",
@@ -711,7 +764,8 @@
     ],
     "authors": [
       "Martha Kendall"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204334",
@@ -724,7 +778,8 @@
     "authors": [
       "G. S. Prentzas",
       "Scott Prentzas"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204253",
@@ -738,7 +793,8 @@
     ],
     "authors": [
       "Aaron Raymond"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836850033",
@@ -751,7 +807,8 @@
     ],
     "authors": [
       "Claude Lafleur"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1572434767",
@@ -762,7 +819,8 @@
     ],
     "authors": [
       "Bud Lea"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859448",
@@ -779,7 +837,8 @@
     ],
     "authors": [
       "David Downing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859472",
@@ -793,7 +852,8 @@
     ],
     "authors": [
       "David Downing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859456",
@@ -809,7 +869,8 @@
     ],
     "authors": [
       "David Downing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859464",
@@ -823,7 +884,8 @@
     ],
     "authors": [
       "David Downing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856465",
@@ -838,7 +900,8 @@
     ],
     "authors": [
       "Steven Maddocks"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856449",
@@ -850,7 +913,8 @@
     ],
     "authors": [
       "Cath Senker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856708",
@@ -862,7 +926,8 @@
     ],
     "authors": [
       "Sean Sheehan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737732393",
@@ -873,7 +938,8 @@
     ],
     "authors": [
       "Christine Van Tuyl"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1603200223",
@@ -886,7 +952,8 @@
     ],
     "authors": [
       "The Editors of Sports Illustrated"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737741406",
@@ -897,7 +964,8 @@
     ],
     "authors": [
       "Myra Immell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737744189",
@@ -910,7 +978,8 @@
     ],
     "authors": [
       "Emily Schusterbauer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1933834579",
@@ -921,7 +990,8 @@
     ],
     "authors": [
       "Anita Croy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1601521065",
@@ -935,7 +1005,8 @@
     ],
     "authors": [
       "Scott Barbour"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1601521251",
@@ -949,7 +1020,8 @@
     ],
     "authors": [
       "Hal Marcovtiz"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "140005270X",
@@ -960,7 +1032,8 @@
     ],
     "authors": [
       "Megan McCafferty"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073773566X",
@@ -972,7 +1045,8 @@
     ],
     "authors": [
       "Jackie Leshkevich"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737735643",
@@ -984,7 +1058,8 @@
     ],
     "authors": [
       "Dan Minkel"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737735457",
@@ -996,7 +1071,8 @@
     ],
     "authors": [
       "Sandra Alters"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0820455482",
@@ -1011,7 +1087,8 @@
     "authors": [
       "David Farber",
       "Jeff Roche"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737740728",
@@ -1024,7 +1101,8 @@
     ],
     "authors": [
       "Heidi Williams"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737748745",
@@ -1036,7 +1114,8 @@
     ],
     "authors": [
       "Christine Watkins"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1904994954",
@@ -1047,7 +1126,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0805064796",
@@ -1059,7 +1139,8 @@
     ],
     "authors": [
       "Patrice Vecchione"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0061963747",
@@ -1072,7 +1153,8 @@
     ],
     "authors": [
       "Jon Scieszka"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0316008109",
@@ -1085,7 +1167,8 @@
     "authors": [
       "Holly Black",
       "Cecil Castellucci"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0062060988",
@@ -1097,7 +1180,8 @@
     ],
     "authors": [
       "Janne Bondi Johannessen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737736976",
@@ -1108,7 +1192,8 @@
     ],
     "authors": [
       "David M. Haugen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0545459362",
@@ -1121,7 +1206,8 @@
     ],
     "authors": [
       "Lauren Tarshis"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0545206987",
@@ -1135,7 +1221,8 @@
     ],
     "authors": [
       "Lauren Tarshis"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0545290597",
@@ -1149,7 +1236,8 @@
       "Peter Lerangis",
       "Gordon Korman",
       "Jude Watson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0805050590",
@@ -1160,7 +1248,8 @@
     ],
     "authors": [
       "Michka Assayas"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0791023311",
@@ -1171,7 +1260,8 @@
     ],
     "authors": [
       "Jim Fanning"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1885983158",
@@ -1181,7 +1271,8 @@
       "POETRY_JUVENILE LITERATURE",
       "POETRY_COLLECTIONS"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "0192781545",
@@ -1193,7 +1284,8 @@
     ],
     "authors": [
       "Dennis Pepper"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073770456X",
@@ -1204,7 +1296,8 @@
     ],
     "authors": [
       "James D. Torr"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737000821",
@@ -1226,7 +1319,8 @@
       "Bronwyn Sweeney",
       "Henry J. Cowan",
       "Weldon Owen Pty Limited"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0891348174",
@@ -1237,7 +1331,8 @@
     ],
     "authors": [
       "Lee Hammond"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1883846757",
@@ -1250,7 +1345,8 @@
     ],
     "authors": [
       "Nancy Whitelaw"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0792266900",
@@ -1261,7 +1357,8 @@
     ],
     "authors": [
       "Thomas B. Allen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0791052702",
@@ -1277,7 +1374,8 @@
     ],
     "authors": [
       "Lisa A. Chippendale"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0208024468",
@@ -1289,7 +1387,8 @@
     ],
     "authors": [
       "Karen Zeinert"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0590253476",
@@ -1301,7 +1400,8 @@
     ],
     "authors": [
       "Barbara Rogasky"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766014444",
@@ -1317,7 +1417,8 @@
     ],
     "authors": [
       "Lynda Pflueger"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761413510",
@@ -1330,7 +1431,8 @@
     "authors": [
       "Heidi Munan",
       "Yuk Yee Foo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761413537",
@@ -1342,7 +1444,8 @@
     ],
     "authors": [
       "Saw Myat Yin"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761314539",
@@ -1354,7 +1457,8 @@
     ],
     "authors": [
       "Edward Dolan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0763606618",
@@ -1366,7 +1470,8 @@
     ],
     "authors": [
       "Paul B. Janeczko"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0312937385",
@@ -1380,7 +1485,8 @@
     ],
     "authors": [
       "Orson Scott Card"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0739835823",
@@ -1394,7 +1500,8 @@
     ],
     "authors": [
       "Duncan Scheff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0739835793",
@@ -1406,7 +1513,8 @@
     ],
     "authors": [
       "Tami Deedrick"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0516231596",
@@ -1418,7 +1526,8 @@
     ],
     "authors": [
       "Matthew Pitt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0531118886",
@@ -1430,7 +1539,8 @@
     ],
     "authors": [
       "Ron Fridell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "082395725X",
@@ -1443,7 +1553,8 @@
     "authors": [
       "Dr. Jon Kukla",
       "Amy Kukla"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823957276",
@@ -1457,7 +1568,8 @@
     ],
     "authors": [
       "Ryan P. Randolph"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0531146243",
@@ -1468,7 +1580,8 @@
     ],
     "authors": [
       "Linda Melvern"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823010287",
@@ -1479,7 +1592,8 @@
     ],
     "authors": [
       "Klaus Janson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823957241",
@@ -1496,7 +1610,8 @@
     "authors": [
       "L. J. Krizner",
       "Lisa Sita"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766014487",
@@ -1510,7 +1625,8 @@
     ],
     "authors": [
       "Alison Davis Tibbitts"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0237521040",
@@ -1522,7 +1638,8 @@
     ],
     "authors": [
       "Fiona Waters"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0789154870",
@@ -1534,7 +1651,8 @@
     ],
     "authors": [
       "Steven L Jones M.D"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1590181751",
@@ -1546,7 +1664,8 @@
     ],
     "authors": [
       "Michael V. Uschan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1590181697",
@@ -1558,7 +1677,8 @@
     ],
     "authors": [
       "Don Nardo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1590181727",
@@ -1570,7 +1690,8 @@
     ],
     "authors": [
       "Louise Chipley Slavicek"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0810944960",
@@ -1585,7 +1706,8 @@
     ],
     "authors": [
       "Tonya Bolden"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0313322457",
@@ -1599,7 +1721,8 @@
     ],
     "authors": [
       "Lisa Trumbauer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0679600124",
@@ -1613,7 +1736,8 @@
     ],
     "authors": [
       "Victor Hugo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1590181255",
@@ -1624,7 +1748,8 @@
     ],
     "authors": [
       "Stuart Kallen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737710233",
@@ -1636,7 +1761,8 @@
     ],
     "authors": [
       "Giorgio Pressburger"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439407001",
@@ -1650,7 +1776,8 @@
     ],
     "authors": [
       "Sam Fink"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1587285401",
@@ -1660,7 +1787,8 @@
       "UNITED STATES_POLITICS AND GOVERNMENT",
       "UNITED STATES_POLITICS AND GOVERNMENT_JUVENILE LITERATURE"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "1590182383",
@@ -1672,7 +1800,8 @@
     ],
     "authors": [
       "David M. Haugen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761413243",
@@ -1686,7 +1815,8 @@
     ],
     "authors": [
       "Lila Perl"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0679457526",
@@ -1698,7 +1828,8 @@
     ],
     "authors": [
       "Jon Krakauer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0385333218",
@@ -1709,7 +1840,8 @@
     ],
     "authors": [
       "Homer Hickam"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0865730954",
@@ -1720,7 +1852,8 @@
     ],
     "authors": [
       "Dick Sternberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0865731047",
@@ -1731,7 +1864,8 @@
     ],
     "authors": [
       "Creative Publishing International"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0872266524",
@@ -1745,7 +1879,8 @@
     "authors": [
       "John Malam",
       "Mark Bergin"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0822541289",
@@ -1758,7 +1893,8 @@
     ],
     "authors": [
       "Kari Cornell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "079106400X",
@@ -1773,7 +1909,8 @@
     ],
     "authors": [
       "Eileen Dunn Bertanzetti"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0791063887",
@@ -1788,7 +1925,8 @@
     ],
     "authors": [
       "Bruce Adelson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1560069899",
@@ -1799,7 +1937,8 @@
     ],
     "authors": [
       "Stuart A. Kallen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1560068795",
@@ -1810,7 +1949,8 @@
     ],
     "authors": [
       "Lydia D. Bjornlund"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1560069937",
@@ -1822,7 +1962,8 @@
     ],
     "authors": [
       "Victoria Sherrow"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0590489399",
@@ -1833,7 +1974,8 @@
     ],
     "authors": [
       "N E Thing Enterprises"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0929384199",
@@ -1846,7 +1988,8 @@
       "Al Lindner",
       "Dave Genz",
       "Doug Stange"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0140439110",
@@ -1863,7 +2006,8 @@
     ],
     "authors": [
       "Robert Louis Stevenson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0865731586",
@@ -1875,7 +2019,8 @@
     ],
     "authors": [
       "Editors of Creative Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "079107000X",
@@ -1888,7 +2033,8 @@
     "authors": [
       "Joe Herran",
       "Ron Thomas"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0071408312",
@@ -1901,7 +2047,8 @@
     ],
     "authors": [
       "Daniel J. Hochstatter"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1580861911",
@@ -1913,7 +2060,8 @@
     ],
     "authors": [
       "Jo Litchfield"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0844270520",
@@ -1925,7 +2073,8 @@
     ],
     "authors": [
       "School Specialty Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0618052526",
@@ -1937,7 +2086,8 @@
     ],
     "authors": [
       "John Fleischman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737716681",
@@ -1950,7 +2100,8 @@
     ],
     "authors": [
       "Gary Wiener"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0792261429",
@@ -1968,7 +2119,8 @@
       "Peter Arenstam",
       "John Kemp",
       "Plimoth Plantation"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0786862068",
@@ -1981,7 +2133,8 @@
     "authors": [
       "Phil Jackson",
       "Hugh Delehanty"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0822511681",
@@ -1994,7 +2147,8 @@
     "authors": [
       "Sam Schultz",
       "Brian Gable"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0822523949",
@@ -2006,7 +2160,8 @@
     ],
     "authors": [
       "Janice Hamilton"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0822523965",
@@ -2018,7 +2173,8 @@
     ],
     "authors": [
       "Alison Behnke"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761474560",
@@ -2032,7 +2188,8 @@
       "Encyclopedias & Subject Guides",
       "Children's"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "0316815896",
@@ -2045,7 +2202,8 @@
     ],
     "authors": [
       "Richard B. Stolley"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0816045682",
@@ -2058,7 +2216,8 @@
     ],
     "authors": [
       "Diagram Group"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1877019038",
@@ -2068,7 +2227,8 @@
       "SHARKS",
       "WHALES"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "1932994742",
@@ -2080,7 +2240,8 @@
     "authors": [
       "Rob Fleder",
       "Rick Reilly"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439317215",
@@ -2094,7 +2255,8 @@
     "authors": [
       "Inc. Staff Scholastic",
       "Mary Varilla"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1416903240",
@@ -2107,7 +2269,8 @@
     ],
     "authors": [
       "R. L. Stine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761112146",
@@ -2124,7 +2287,8 @@
       "Rosanne Green",
       "Ilana Weitzman",
       "Mike Wright"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439743826",
@@ -2135,7 +2299,8 @@
     ],
     "authors": [
       "Editors at Tangerine Press"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1593393407",
@@ -2148,7 +2313,8 @@
     ],
     "authors": [
       "Encyclopedia Britannica"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1572439203",
@@ -2160,7 +2326,8 @@
     "authors": [
       "Milwaukee Journal Sentinel Staff",
       "Joe Funk"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1585981656",
@@ -2171,7 +2338,8 @@
     ],
     "authors": [
       "CheckerBee Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1560067195",
@@ -2185,7 +2353,8 @@
     ],
     "authors": [
       "Earl Rice"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0060513551",
@@ -2198,7 +2367,8 @@
     ],
     "authors": [
       "Comickers Magazine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1584158239",
@@ -2212,7 +2382,8 @@
     ],
     "authors": [
       "Russell Roberts"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756515858",
@@ -2228,7 +2399,8 @@
     ],
     "authors": [
       "Darlene Ruth Stille"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439652871",
@@ -2240,7 +2412,8 @@
     ],
     "authors": [
       "Jack Canfield"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0753466279",
@@ -2254,7 +2427,8 @@
     ],
     "authors": [
       "Simon Basher"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0689828632",
@@ -2267,7 +2441,8 @@
     ],
     "authors": [
       "James Howe"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1416971750",
@@ -2283,7 +2458,8 @@
     ],
     "authors": [
       "Scott Westerfeld"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823935264",
@@ -2296,7 +2472,8 @@
     ],
     "authors": [
       "Jim Wentzel"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1567666124",
@@ -2308,7 +2485,8 @@
     ],
     "authors": [
       "Marc Davis"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1567666248",
@@ -2320,7 +2498,8 @@
     ],
     "authors": [
       "Myra S. Weatherly"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "156766685X",
@@ -2332,7 +2511,8 @@
     ],
     "authors": [
       "Barbara A. Somervill"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823939766",
@@ -2345,7 +2525,8 @@
     ],
     "authors": [
       "Betty Burnett"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823938808",
@@ -2360,7 +2541,8 @@
     ],
     "authors": [
       "Melanie Ann Apel"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761326502",
@@ -2372,7 +2554,8 @@
     ],
     "authors": [
       "Ron Fridell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1567666094",
@@ -2384,7 +2567,8 @@
     ],
     "authors": [
       "Michael Burgan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1567666655",
@@ -2396,7 +2580,8 @@
     ],
     "authors": [
       "Judy Alter"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1567667104",
@@ -2408,7 +2593,8 @@
     ],
     "authors": [
       "Jean F. Blashfield"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1567667112",
@@ -2420,7 +2606,8 @@
     ],
     "authors": [
       "Sarah De Capua"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823945162",
@@ -2432,7 +2619,8 @@
     ],
     "authors": [
       "Philip Wolny"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "159270025X",
@@ -2445,7 +2633,8 @@
     ],
     "authors": [
       "Brendan January"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592700276",
@@ -2458,7 +2647,8 @@
     ],
     "authors": [
       "Dale Andersen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836854950",
@@ -2473,7 +2663,8 @@
     ],
     "authors": [
       "David Fischer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0823945219",
@@ -2486,7 +2677,8 @@
     ],
     "authors": [
       "Jesse Jarnow"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836854969",
@@ -2500,7 +2692,8 @@
     ],
     "authors": [
       "Richard Hantula"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856791",
@@ -2512,7 +2705,8 @@
     ],
     "authors": [
       "David Jordan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856805",
@@ -2524,7 +2718,8 @@
     ],
     "authors": [
       "Mary Barbier"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856813",
@@ -2536,7 +2731,8 @@
     ],
     "authors": [
       "Dennis L. Noble"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856821",
@@ -2550,7 +2746,8 @@
     ],
     "authors": [
       "Hunter Keeter"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "083685683X",
@@ -2562,7 +2759,8 @@
     ],
     "authors": [
       "Hunter Keeter"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836856848",
@@ -2574,7 +2772,8 @@
     ],
     "authors": [
       "David Jordan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1405303220",
@@ -2585,7 +2784,8 @@
       "Miscellaneous",
       "Olympic Games"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "079107238X",
@@ -2597,7 +2797,8 @@
     ],
     "authors": [
       "Kristi L. Desaulniers"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836857674",
@@ -2611,7 +2812,8 @@
     ],
     "authors": [
       "Chrisanne Beckner"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859103",
@@ -2623,7 +2825,8 @@
     ],
     "authors": [
       "Rob Bowden"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1403448361",
@@ -2636,7 +2839,8 @@
     ],
     "authors": [
       "Jackie Gaff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1583407200",
@@ -2648,7 +2852,8 @@
     ],
     "authors": [
       "Clare Hibbert"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592700233",
@@ -2660,7 +2865,8 @@
     ],
     "authors": [
       "Richard Dargie"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756512522",
@@ -2672,7 +2878,8 @@
     ],
     "authors": [
       "Steve Parker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756512506",
@@ -2684,7 +2891,8 @@
     ],
     "authors": [
       "Steve Parker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756512530",
@@ -2696,7 +2904,8 @@
     ],
     "authors": [
       "Steve Parker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "158415425X",
@@ -2709,7 +2918,8 @@
     ],
     "authors": [
       "Kathleen Tracy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1584153334",
@@ -2724,7 +2934,8 @@
     ],
     "authors": [
       "John Albert Torres"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756512557",
@@ -2736,7 +2947,8 @@
     ],
     "authors": [
       "Daniel Gilpin"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1932889779",
@@ -2748,7 +2960,8 @@
     ],
     "authors": [
       "Anne Pearson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1932889795",
@@ -2760,7 +2973,8 @@
     ],
     "authors": [
       "Mike Corbishley"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1583407235",
@@ -2772,7 +2986,8 @@
     ],
     "authors": [
       "Richard Dargie"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592700241",
@@ -2783,7 +2998,8 @@
     ],
     "authors": [
       "Peter Chrisp"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737726245",
@@ -2796,7 +3012,8 @@
     ],
     "authors": [
       "Sheila Wyborny"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "082252550X",
@@ -2808,7 +3025,8 @@
     ],
     "authors": [
       "Francesca Di Piazza"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204245",
@@ -2822,7 +3040,8 @@
     ],
     "authors": [
       "Ann Malaspina"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204261",
@@ -2834,7 +3053,8 @@
     ],
     "authors": [
       "Liz Sonneborn"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "140420427X",
@@ -2846,7 +3066,8 @@
     ],
     "authors": [
       "Liz Sonneborn"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204288",
@@ -2858,7 +3079,8 @@
     ],
     "authors": [
       "Jeri Freedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204296",
@@ -2870,7 +3092,8 @@
     ],
     "authors": [
       "Fletcher Haulley"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "140420430X",
@@ -2882,7 +3105,8 @@
     ],
     "authors": [
       "Tamra Orr"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204318",
@@ -2894,7 +3118,8 @@
     ],
     "authors": [
       "Paul Kupperberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204326",
@@ -2906,7 +3131,8 @@
     ],
     "authors": [
       "Phillip Margulies"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204342",
@@ -2920,7 +3146,8 @@
     ],
     "authors": [
       "Joan Axelrod-Contrada"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204369",
@@ -2932,7 +3159,8 @@
     ],
     "authors": [
       "Heather Hasan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204377",
@@ -2944,7 +3172,8 @@
     ],
     "authors": [
       "Sandra Whiteknact"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1404204350",
@@ -2956,7 +3185,8 @@
     ],
     "authors": [
       "Brian Belval"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0822523973",
@@ -2968,7 +3198,8 @@
     ],
     "authors": [
       "Eric Braun"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859820",
@@ -2980,7 +3211,8 @@
     ],
     "authors": [
       "Nicholas Saunders"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1932904050",
@@ -2992,7 +3224,8 @@
     ],
     "authors": [
       "Milan Bobek"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1932904069",
@@ -3004,7 +3237,8 @@
     ],
     "authors": [
       "Milan Bobek"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1403459959",
@@ -3018,7 +3252,8 @@
     ],
     "authors": [
       "Jane Shuter"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756612977",
@@ -3029,7 +3264,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592700454",
@@ -3041,7 +3277,8 @@
     ],
     "authors": [
       "David Evelyn Stewart"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "140346961X",
@@ -3054,7 +3291,8 @@
     ],
     "authors": [
       "Dave Dalton"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836859812",
@@ -3066,7 +3304,8 @@
     ],
     "authors": [
       "Andrew Mason"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836868226",
@@ -3078,7 +3317,8 @@
       "SHORT STORIES",
       "GHOSTS_FICTION"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "0836868234",
@@ -3089,7 +3329,8 @@
       "GHOSTS_FICTION",
       "HORROR STORIES"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "1575058707",
@@ -3101,7 +3342,8 @@
     ],
     "authors": [
       "Cherie Winner"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836867483",
@@ -3113,7 +3355,8 @@
     ],
     "authors": [
       "Nikki Van Der Gaag"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836867505",
@@ -3125,7 +3368,8 @@
     ],
     "authors": [
       "Sally Morgan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836867513",
@@ -3138,7 +3382,8 @@
     "authors": [
       "Rob Bowden",
       "Ronan Foley"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836867491",
@@ -3151,7 +3396,8 @@
     "authors": [
       "Rob Bowden",
       "Galya Ransome"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1584155493",
@@ -3165,7 +3411,8 @@
     ],
     "authors": [
       "Russell Roberts"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "159928846X",
@@ -3179,7 +3426,8 @@
     ],
     "authors": [
       "Susan E. Hamen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1602792259",
@@ -3191,7 +3439,8 @@
     ],
     "authors": [
       "Susan H Gray"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422220214",
@@ -3203,7 +3452,8 @@
     ],
     "authors": [
       "Ripley Publishing,Ripley's"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1936333325",
@@ -3217,7 +3467,8 @@
     ],
     "authors": [
       "Brown Bear Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1936333333",
@@ -3229,7 +3480,8 @@
     ],
     "authors": [
       "Brown Bear Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1936333368",
@@ -3243,7 +3495,8 @@
     ],
     "authors": [
       "Brown Bear Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073770831X",
@@ -3255,7 +3508,8 @@
     ],
     "authors": [
       "Greenhaven Press"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0753456362",
@@ -3267,7 +3521,8 @@
     ],
     "authors": [
       "Philip Pullman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439574269",
@@ -3280,7 +3535,8 @@
     ],
     "authors": [
       "Christopher Krovatin"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0590959441",
@@ -3292,7 +3548,8 @@
     ],
     "authors": [
       "Bruce Coville"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1594630402",
@@ -3303,7 +3560,8 @@
     ],
     "authors": [
       "Amy Goldwasser"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0740777467",
@@ -3315,7 +3573,8 @@
     ],
     "authors": [
       "EarthWorks Group"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1935096265",
@@ -3329,7 +3588,8 @@
       "Mark Victor Hansen",
       "Madeline Clapps",
       "Valerie Howlett"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1603200797",
@@ -3340,7 +3600,8 @@
     ],
     "authors": [
       "Editors of Life"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737750812",
@@ -3354,7 +3615,8 @@
     ],
     "authors": [
       "Candice Mancini"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737751576",
@@ -3366,7 +3628,8 @@
     ],
     "authors": [
       "Ronald D. Jr. Lankford"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737744979",
@@ -3379,7 +3642,8 @@
     ],
     "authors": [
       "Heidi Williams"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737756063",
@@ -3391,7 +3655,8 @@
     ],
     "authors": [
       "Tamara Thompson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836833716",
@@ -3403,7 +3668,8 @@
     ],
     "authors": [
       "Gareth Stevens Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737732202",
@@ -3415,7 +3681,8 @@
     ],
     "authors": [
       "Louise I. Gerdes"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073773342X",
@@ -3426,7 +3693,8 @@
     ],
     "authors": [
       "Lauri S. Friedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836868218",
@@ -3439,7 +3707,8 @@
     ],
     "authors": [
       "Gareth Stevens Pub."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836868242",
@@ -3449,7 +3718,8 @@
       "CHILDREN'S FICTION",
       "GHOSTS_FICTION"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "1592967086",
@@ -3461,7 +3731,8 @@
     ],
     "authors": [
       "Pam Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1592967108",
@@ -3473,7 +3744,8 @@
     ],
     "authors": [
       "Pam Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073774166X",
@@ -3485,7 +3757,8 @@
     ],
     "authors": [
       "Lauri S. Friedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "160253523X",
@@ -3497,7 +3770,8 @@
     ],
     "authors": [
       "Pam Rosenberg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305157",
@@ -3511,7 +3785,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305122",
@@ -3525,7 +3800,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305181",
@@ -3537,7 +3813,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "161530519X",
@@ -3551,7 +3828,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305203",
@@ -3563,7 +3841,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305270",
@@ -3575,7 +3854,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305343",
@@ -3590,7 +3870,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756640946",
@@ -3602,7 +3883,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0836828976",
@@ -3615,7 +3897,8 @@
     ],
     "authors": [
       "Gareth Editorial Staff Staff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737733411",
@@ -3626,7 +3909,8 @@
     ],
     "authors": [
       "Lauri S. Friedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615300074",
@@ -3638,7 +3922,8 @@
     ],
     "authors": [
       "Jeffrey H. Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615300228",
@@ -3652,7 +3937,8 @@
     ],
     "authors": [
       "Jeffrey H. Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1604139080",
@@ -3665,7 +3951,8 @@
     ],
     "authors": [
       "John Bankston"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "075654565X",
@@ -3677,7 +3964,8 @@
     ],
     "authors": [
       "Jennifer Ann Fretland VanVoorst"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737756926",
@@ -3690,7 +3978,8 @@
     ],
     "authors": [
       "Tamara L. Roleff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762926",
@@ -3704,7 +3993,8 @@
     ],
     "authors": [
       "Laurie Willis"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762950",
@@ -3716,7 +4006,8 @@
     ],
     "authors": [
       "Lauri S. Scherer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1554078849",
@@ -3730,7 +4021,8 @@
     ],
     "authors": [
       "Mike Ryan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0545006643",
@@ -3742,7 +4034,8 @@
     ],
     "authors": [
       "Paul Ladewski"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737740647",
@@ -3756,7 +4049,8 @@
     ],
     "authors": [
       "Roman Espejo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615353356",
@@ -3767,7 +4061,8 @@
     ],
     "authors": [
       "Inc Encyclopaedia Britannica,Not Available (Na)"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737746653",
@@ -3779,7 +4074,8 @@
     ],
     "authors": [
       "Stefan Kiesbye"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766034674",
@@ -3793,7 +4089,8 @@
     ],
     "authors": [
       "Ken Rappoport"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737744944",
@@ -3805,7 +4102,8 @@
     ],
     "authors": [
       "Hayley Mitchell Haugen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737745576",
@@ -3819,7 +4117,8 @@
     ],
     "authors": [
       "Alexander Cruden"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737744812",
@@ -3830,7 +4129,8 @@
     ],
     "authors": [
       "Lauri S. Friedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737747455",
@@ -3842,7 +4142,8 @@
     ],
     "authors": [
       "Tamara L. Roleff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1936333430",
@@ -3854,7 +4155,8 @@
     ],
     "authors": [
       "Tim Cooke"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737756764",
@@ -3867,7 +4169,8 @@
     ],
     "authors": [
       "Lauri S. Friedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615306625",
@@ -3878,7 +4181,8 @@
     ],
     "authors": [
       "Jeff Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615306684",
@@ -3891,7 +4195,8 @@
     ],
     "authors": [
       "Jeff Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615306749",
@@ -3902,7 +4207,8 @@
     ],
     "authors": [
       "Jeff Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615306803",
@@ -3915,7 +4221,8 @@
     ],
     "authors": [
       "Jeff Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305106",
@@ -3928,7 +4235,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305092",
@@ -3940,7 +4248,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305114",
@@ -3954,7 +4263,8 @@
     ],
     "authors": [
       "Michael Anderson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615305165",
@@ -3966,7 +4276,8 @@
     ],
     "authors": [
       "Sherman Hollar"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756693152",
@@ -3978,7 +4289,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615354603",
@@ -3994,7 +4306,8 @@
     ],
     "authors": [
       "Inc. Encyclopaedia Britannica"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1908843357",
@@ -4006,7 +4319,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762438",
@@ -4018,7 +4332,8 @@
     ],
     "authors": [
       "Tamara Thompson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762675",
@@ -4030,7 +4345,8 @@
     ],
     "authors": [
       "Margaret Haerens"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762969",
@@ -4042,7 +4358,8 @@
     ],
     "authors": [
       "Heidi Watkins"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1601525702",
@@ -4054,7 +4371,8 @@
     ],
     "authors": [
       "Stuart A Kallen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0061963771",
@@ -4073,7 +4391,8 @@
       "Tim Green",
       "Joseph Bruchac",
       "Jacqueline Woodson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422227847",
@@ -4085,7 +4404,8 @@
     ],
     "authors": [
       "Ripley's Entertainment Inc."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1600582184",
@@ -4101,7 +4421,8 @@
     ],
     "authors": [
       "Tom LaPadula"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422225623",
@@ -4114,7 +4435,8 @@
     ],
     "authors": [
       "Ripley's Entertainment Inc."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422225704",
@@ -4126,7 +4448,8 @@
     ],
     "authors": [
       "Ripley's Entertainment Inc."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073776418X",
@@ -4138,7 +4461,8 @@
     ],
     "authors": [
       "Michele Siuda Jacques"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762179",
@@ -4150,7 +4474,8 @@
     ],
     "authors": [
       "Judeen Bartos"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737762039",
@@ -4164,7 +4489,8 @@
     ],
     "authors": [
       "Stefan Kiesbye"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1477705503",
@@ -4178,7 +4504,8 @@
     ],
     "authors": [
       "Anne Wanjie"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1477705538",
@@ -4192,7 +4519,8 @@
     ],
     "authors": [
       "Anne Wanjie"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1438001355",
@@ -4203,7 +4531,8 @@
     ],
     "authors": [
       "Richela Fabian Morgan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "143800334X",
@@ -4214,7 +4543,8 @@
     ],
     "authors": [
       "Richela Fabian Morgan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0762445769",
@@ -4226,7 +4556,8 @@
     "authors": [
       "Robin Ankeny",
       "Charlotte Lyon"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0760344507",
@@ -4237,7 +4568,8 @@
     ],
     "authors": [
       "Lew Freedman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1554079888",
@@ -4248,14 +4580,16 @@
     ],
     "authors": [
       "Michael Bright"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0329918524",
     "synopsis": "Presents A Six-page Reference Guide To Using Ebooks Available From Follett Corporation Companies.",
     "title": "Follett Quick Reference Guide",
     "subjects": "-999",
-    "authors": "-999"
+    "authors": "-999",
+    "series": "None"
   },
   {
     "_id": "1603574174",
@@ -4266,7 +4600,8 @@
     ],
     "authors": [
       "Gail Bush"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737761555",
@@ -4280,7 +4615,8 @@
     ],
     "authors": [
       "Roman Espejo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737764058",
@@ -4292,7 +4628,8 @@
     ],
     "authors": [
       "Roman Espejo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0740747916",
@@ -4303,7 +4640,8 @@
     ],
     "authors": [
       "Magic Eye Inc."
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0062387553",
@@ -4315,7 +4653,8 @@
     ],
     "authors": [
       "Tim Howard"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1627133658",
@@ -4328,7 +4667,8 @@
     "authors": [
       "Patricia Levy",
       "Debbie Nevins"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1627133674",
@@ -4337,7 +4677,8 @@
     "subjects": "-999",
     "authors": [
       "Sean Sheehan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465422676",
@@ -4349,7 +4690,8 @@
     ],
     "authors": [
       "David Lambert"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465420983",
@@ -4363,7 +4705,8 @@
     ],
     "authors": [
       "R.F. Symes"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465426205",
@@ -4379,7 +4722,8 @@
     ],
     "authors": [
       "Richard Walker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465426221",
@@ -4391,7 +4735,8 @@
     ],
     "authors": [
       "Susanna van Rose"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465424598",
@@ -4403,7 +4748,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465427651",
@@ -4415,7 +4761,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465422846",
@@ -4430,7 +4777,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465424482",
@@ -4441,7 +4789,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1625880405",
@@ -4452,7 +4801,8 @@
     ],
     "authors": [
       "Ian Hogg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761449930",
@@ -4466,7 +4816,8 @@
       "Vijeya Rajendra",
       "Gisela Kaplan",
       "Rudi Rajendra"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761449957",
@@ -4480,7 +4831,8 @@
       "Jill Dubois",
       "Rosh Mair",
       "Josie Elias"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1250059305",
@@ -4494,7 +4846,8 @@
     ],
     "authors": [
       "Stephanie Perkins"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1629370339",
@@ -4508,7 +4861,8 @@
       "Art Thiel",
       "Steve Rudman",
       "Sportspress Northwest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1440242895",
@@ -4519,7 +4873,8 @@
     ],
     "authors": [
       "Sports Collectors Sports Collectors Digest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1625880464",
@@ -4530,7 +4885,8 @@
     ],
     "authors": [
       "Chris McNab"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737769300",
@@ -4544,7 +4900,8 @@
     ],
     "authors": [
       "Cynthia A. Bily"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1910561029",
@@ -4555,7 +4912,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "194005625X",
@@ -4566,7 +4924,8 @@
     ],
     "authors": [
       "Patrick Herb"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "006196381X",
@@ -4589,7 +4948,8 @@
       "Steve Sheinkin",
       "T. Edward Nickens",
       "Thanhh\u00e0 Lai"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0385370032",
@@ -4607,7 +4967,8 @@
       "Jarrett J. Krosoczka",
       "Dan Santat",
       "Raina Telgemeier"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465408517",
@@ -4618,7 +4979,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439841259",
@@ -4631,7 +4993,8 @@
     ],
     "authors": [
       "R. L. Stine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439857821",
@@ -4644,7 +5007,8 @@
     ],
     "authors": [
       "R. L. Stine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764167596",
@@ -4656,7 +5020,8 @@
     "authors": [
       "James Eade",
       "Al Lawrence"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1438002572",
@@ -4667,7 +5032,8 @@
     ],
     "authors": [
       "Carolyn Scrace"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1780975945",
@@ -4679,7 +5045,8 @@
     ],
     "authors": [
       "Iain Spragg"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426310951",
@@ -4691,7 +5058,8 @@
     ],
     "authors": [
       "Jonathan Alderfer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1622509277",
@@ -4707,7 +5075,8 @@
     ],
     "authors": [
       "Saddleback Educational Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1622509285",
@@ -4720,7 +5089,8 @@
     ],
     "authors": [
       "Saddleback Educational Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465439439",
@@ -4732,7 +5102,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1939130336",
@@ -4743,7 +5114,8 @@
     ],
     "authors": [
       "Boutique-sha"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465416072",
@@ -4754,7 +5126,8 @@
     ],
     "authors": [
       "Boris Entrup"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0756692717",
@@ -4766,7 +5139,8 @@
     "authors": [
       "Vikki Haffenden",
       "Frederica Patmore"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465417494",
@@ -4777,7 +5151,8 @@
     ],
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465436006",
@@ -4790,7 +5165,8 @@
     ],
     "authors": [
       "H. Keith Melton"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465436014",
@@ -4804,7 +5180,8 @@
       "Adam Bray",
       "Daniel Wallace",
       "Tricia Barr"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465415815",
@@ -4816,7 +5193,8 @@
     "authors": [
       "Susie Johns",
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615644172",
@@ -4827,7 +5205,8 @@
     ],
     "authors": [
       "David Hodge"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1625880456",
@@ -4838,7 +5217,8 @@
     ],
     "authors": [
       "Michael Sharpe"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766070328",
@@ -4853,7 +5233,8 @@
       "Alvin Silverstein",
       "Virginia B. Silverstein",
       "Laura Silverstein Nunn"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737772395",
@@ -4865,7 +5246,8 @@
     ],
     "authors": [
       "Julia Garbus"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680480669",
@@ -4879,7 +5261,8 @@
     ],
     "authors": [
       "Zoe Lowery"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0803741731",
@@ -4893,7 +5276,8 @@
     "authors": [
       "April Genevieve Tucholke",
       "A.G. Howard"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0393329909",
@@ -4904,7 +5288,8 @@
     ],
     "authors": [
       "Nelson Mandela"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737771496",
@@ -4916,7 +5301,8 @@
     ],
     "authors": [
       "Tamara Thompson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1554516862",
@@ -4931,7 +5317,8 @@
     "authors": [
       "Lisa Charleyboy",
       "Mary Beth Leatherdale"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1554517508",
@@ -4944,7 +5331,8 @@
     ],
     "authors": [
       "Lisa Charleyboy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1770855920",
@@ -4955,7 +5343,8 @@
     ],
     "authors": [
       "Georg Ruschemeyer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1629371041",
@@ -4969,7 +5358,8 @@
     ],
     "authors": [
       "Rob Reischel"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "045146494X",
@@ -4981,7 +5371,8 @@
     "authors": [
       "Stephen L. Antczak",
       "James C. Bassett"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0763669636",
@@ -4993,7 +5384,8 @@
     ],
     "authors": [
       "Paul B. Janeczko"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0670014796",
@@ -5005,7 +5397,8 @@
     "authors": [
       "Brett Fletcher Lauer",
       "Lynn Melnick"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1502608049",
@@ -5017,7 +5410,8 @@
     ],
     "authors": [
       "Erin Foley"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1502607980",
@@ -5029,7 +5423,8 @@
     ],
     "authors": [
       "Peter Malcolm"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465437967",
@@ -5040,7 +5435,8 @@
     ],
     "authors": [
       "Andr\u00e9 M\u00e4rtens"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465422293",
@@ -5051,7 +5447,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465436049",
@@ -5063,7 +5460,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422235505",
@@ -5075,7 +5473,8 @@
     ],
     "authors": [
       "Mason Crest Publishers"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422235513",
@@ -5087,7 +5486,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1910561339",
@@ -5098,7 +5498,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "161530486X",
@@ -5109,7 +5510,8 @@
     ],
     "authors": [
       "John P. Rafferty"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1629372358",
@@ -5122,7 +5524,8 @@
     ],
     "authors": [
       "Jesse Temple"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "162937279X",
@@ -5134,7 +5537,8 @@
     "authors": [
       "Wayne Larrivee",
       "Rob Reischel"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "162937203X",
@@ -5145,7 +5549,8 @@
     ],
     "authors": [
       "Bill Schroeder"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403590",
@@ -5160,7 +5565,8 @@
     ],
     "authors": [
       "Anna Claybourne"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403841",
@@ -5175,7 +5581,8 @@
     ],
     "authors": [
       "Clive Gifford"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403582",
@@ -5188,7 +5595,8 @@
     ],
     "authors": [
       "Mike Goldsmith"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0606391533",
@@ -5200,7 +5608,8 @@
     ],
     "authors": [
       "James, Jr. Buckley"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422235483",
@@ -5213,7 +5622,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422235521",
@@ -5225,7 +5635,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422235491",
@@ -5239,7 +5650,8 @@
     ],
     "authors": [
       "Mason Crest Publishers"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1599619075",
@@ -5255,7 +5667,8 @@
     ],
     "authors": [
       "Haden Blackman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1599619083",
@@ -5272,7 +5685,8 @@
     "authors": [
       "Matthew Fillbach",
       "Shawn Fillbach"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1599619091",
@@ -5289,7 +5703,8 @@
     "authors": [
       "Matthew Fillbach",
       "Shawn Fillbach"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1614790582",
@@ -5307,7 +5722,8 @@
       "Fillbach Brothers",
       "Ryan Kaufman",
       "Chris Avellone"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1614790590",
@@ -5326,7 +5742,8 @@
       "Chris Avellone",
       "Jason Hall",
       "Jeremy Barlow"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "142223553X",
@@ -5338,7 +5755,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1599619059",
@@ -5354,7 +5772,8 @@
     ],
     "authors": [
       "Haden Blackman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1599619067",
@@ -5370,7 +5789,8 @@
     ],
     "authors": [
       "Haden Blackman"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422236447",
@@ -5382,7 +5802,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0544816234",
@@ -5393,7 +5814,8 @@
     ],
     "authors": [
       "Betty Crocker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "054583595X",
@@ -5406,7 +5828,8 @@
     ],
     "authors": [
       "R. L. Stine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680783661",
@@ -5422,7 +5845,8 @@
     ],
     "authors": [
       "A. R. Carser"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1438007132",
@@ -5433,7 +5857,8 @@
     ],
     "authors": [
       "Tiddy Rowan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1438007000",
@@ -5444,7 +5869,8 @@
     ],
     "authors": [
       "Carol Meldrum"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764167170",
@@ -5455,7 +5881,8 @@
     ],
     "authors": [
       "Parram\u00f3n Editorial Team"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1438009097",
@@ -5467,7 +5894,8 @@
     ],
     "authors": [
       "Christopher Edge"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764165828",
@@ -5479,7 +5907,8 @@
     ],
     "authors": [
       "Parram\u00f3n Editorial Team"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764165836",
@@ -5490,7 +5919,8 @@
     ],
     "authors": [
       "Parram\u00f3n Editorial Team"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764167189",
@@ -5504,7 +5934,8 @@
     ],
     "authors": [
       "Parram\u00f3n Editorial Team"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1629373478",
@@ -5516,7 +5947,8 @@
     ],
     "authors": [
       "The Boston Globe"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "160220019X",
@@ -5528,7 +5960,8 @@
     ],
     "authors": [
       "Haimei Cao"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0310759668",
@@ -5542,7 +5975,8 @@
     ],
     "authors": [
       "Simone Biles"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0804843384",
@@ -5554,7 +5988,8 @@
     "authors": [
       "Meher McArthur",
       "Robert J. Lang"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1910254479",
@@ -5566,7 +6001,8 @@
     ],
     "authors": [
       "Max McMurdo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1452145830",
@@ -5578,7 +6014,8 @@
     ],
     "authors": [
       "Carla Snyder"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1629372420",
@@ -5589,7 +6026,8 @@
     ],
     "authors": [
       "Rob Reischel"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "178240385X",
@@ -5604,7 +6042,8 @@
     ],
     "authors": [
       "Anita Ganeri"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403604",
@@ -5619,7 +6058,8 @@
     ],
     "authors": [
       "Jen Green"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403833",
@@ -5632,7 +6072,8 @@
     ],
     "authors": [
       "Mike Goldsmith"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403612",
@@ -5645,7 +6086,8 @@
     ],
     "authors": [
       "Clive Gifford"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1782403868",
@@ -5659,7 +6101,8 @@
     ],
     "authors": [
       "Jen Green"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426215592",
@@ -5671,7 +6114,8 @@
     ],
     "authors": [
       "Kim Heacox"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465451811",
@@ -5683,7 +6127,8 @@
     ],
     "authors": [
       "Brian Cosgrove"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465460365",
@@ -5697,7 +6142,8 @@
     ],
     "authors": [
       "Simon Hugo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465430083",
@@ -5708,7 +6154,8 @@
     ],
     "authors": [
       "Heather Whinney"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422234592",
@@ -5720,7 +6167,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422234622",
@@ -5732,7 +6180,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0062385577",
@@ -5754,7 +6203,8 @@
       "Lisa Brown",
       "Daniel Jose Older",
       "Rita Williams-Garcia"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1101934603",
@@ -5766,7 +6216,8 @@
     ],
     "authors": [
       "Ellen Oh"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1910561509",
@@ -5777,7 +6228,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1616205865",
@@ -5791,7 +6243,8 @@
     ],
     "authors": [
       "Kelly Jensen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737773766",
@@ -5802,7 +6255,8 @@
     ],
     "authors": [
       "Greenhaven Press"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1481470574",
@@ -5825,7 +6279,8 @@
       "Kirsty Murray",
       "Payal Dhar",
       "Anita Roy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0753457334",
@@ -5839,7 +6294,8 @@
     "authors": [
       "Michael Rosen",
       "Tony Blundell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "076607675X",
@@ -5851,7 +6307,8 @@
     ],
     "authors": [
       "Anne C. Cunningham"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465459294",
@@ -5864,7 +6321,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465459316",
@@ -5876,7 +6334,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465459286",
@@ -5888,7 +6347,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465454438",
@@ -5899,7 +6359,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764140051",
@@ -5911,7 +6372,8 @@
     ],
     "authors": [
       "NA"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0764140027",
@@ -5923,7 +6385,8 @@
     ],
     "authors": [
       "Majka Dischler"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0877798508",
@@ -5934,7 +6397,8 @@
     ],
     "authors": [
       "Merriam-Webster"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737769432",
@@ -5946,7 +6410,8 @@
     ],
     "authors": [
       "Margaret Haerens"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0763675547",
@@ -5959,7 +6424,8 @@
     ],
     "authors": [
       "Various"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766081397",
@@ -5970,7 +6436,8 @@
     ],
     "authors": [
       "Paula Johanson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "191056172X",
@@ -5981,7 +6448,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766084876",
@@ -5993,7 +6461,8 @@
     ],
     "authors": [
       "Paula Johanson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680480456",
@@ -6012,7 +6481,8 @@
     ],
     "authors": [
       "Sabina G. Arora"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1534500723",
@@ -6023,7 +6493,8 @@
     ],
     "authors": [
       "Gloria G. Adams"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0062385607",
@@ -6046,7 +6517,8 @@
       "Eugene Yelchin",
       "Jack Gantos",
       "Lemony Snicket"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1250154464",
@@ -6058,7 +6530,8 @@
     ],
     "authors": [
       "Melissa de la Cruz"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1534500820",
@@ -6070,7 +6543,8 @@
     ],
     "authors": [
       "Matt Uhler"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0448493993",
@@ -6082,7 +6556,8 @@
     ],
     "authors": [
       "Tavi Gevinson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737742844",
@@ -6094,7 +6569,8 @@
     ],
     "authors": [
       "Roman Espejo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737768746",
@@ -6106,7 +6582,8 @@
     ],
     "authors": [
       "Debra A. Miller"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "073776824X",
@@ -6118,7 +6595,8 @@
     ],
     "authors": [
       "Tamara L. Roleff"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737769254",
@@ -6130,7 +6608,8 @@
     ],
     "authors": [
       "Jacqueline Langwith"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737772808",
@@ -6141,7 +6620,8 @@
     ],
     "authors": [
       "Roman Espejo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0838915914",
@@ -6152,7 +6632,8 @@
     ],
     "authors": [
       "Ellyssa Kroski"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "142633088X",
@@ -6164,7 +6645,8 @@
     ],
     "authors": [
       "Neil deGrasse Tyson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1554519586",
@@ -6178,7 +6660,8 @@
     "authors": [
       "Lisa Charleyboy",
       "Mary Beth Leatherdale"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1250168368",
@@ -6191,7 +6674,8 @@
     ],
     "authors": [
       "Maureen Johnson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737737913",
@@ -6202,7 +6686,8 @@
     ],
     "authors": [
       "Adriane Ruggiero"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737714107",
@@ -6213,7 +6698,8 @@
     ],
     "authors": [
       "Cindy Mur"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1912286432",
@@ -6229,7 +6715,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766091708",
@@ -6243,7 +6730,8 @@
     ],
     "authors": [
       "Cyndy Aleo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1492670022",
@@ -6255,7 +6743,8 @@
     ],
     "authors": [
       "America\u2019s Test Kitchen Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1616207817",
@@ -6268,7 +6757,8 @@
     ],
     "authors": [
       "Kelly Jensen"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1524766291",
@@ -6279,7 +6769,8 @@
     ],
     "authors": [
       "Lamar Giles"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0763689939",
@@ -6292,7 +6783,8 @@
     "authors": [
       "Marc Aronson",
       "Susan Campbell Bartoletti"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422240452",
@@ -6307,7 +6799,8 @@
     ],
     "authors": [
       "Mari Rich"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465474935",
@@ -6319,7 +6812,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1945820209",
@@ -6348,7 +6842,8 @@
       "Ainsley Seago",
       "CB Webb",
       "Nathaniel Wilson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0374306508",
@@ -6361,7 +6856,8 @@
     ],
     "authors": [
       "Marieke Nijkamp"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0062698729",
@@ -6391,7 +6887,8 @@
       "Liara Tamani",
       "Ren\u00e9e Watson",
       "Rita Williams-Garcia"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680485245",
@@ -6406,7 +6903,8 @@
     ],
     "authors": [
       "Kelly Roscoe"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680485253",
@@ -6419,7 +6917,8 @@
     ],
     "authors": [
       "Lorena Huddle"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680486330",
@@ -6435,7 +6934,8 @@
     ],
     "authors": [
       "Kevin Geller"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "168048527X",
@@ -6451,7 +6951,8 @@
     ],
     "authors": [
       "Meredith Day"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680486314",
@@ -6464,7 +6965,8 @@
     ],
     "authors": [
       "Randy Shattuck"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1524772208",
@@ -6478,7 +6980,8 @@
     ],
     "authors": [
       "Betsy Groban"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680486357",
@@ -6494,7 +6997,8 @@
     ],
     "authors": [
       "Lorena Huddle"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1984850008",
@@ -6507,7 +7011,8 @@
     ],
     "authors": [
       "Sarah Lerner"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1680485288",
@@ -6520,7 +7025,8 @@
     ],
     "authors": [
       "Julia Chandler"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465445900",
@@ -6534,7 +7040,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0766093875",
@@ -6548,7 +7055,8 @@
     ],
     "authors": [
       "Joanne Randolph"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0838917682",
@@ -6562,7 +7070,8 @@
       "Shelbie Witte",
       "Don Latham",
       "Melissa Gross"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0737775262",
@@ -6574,7 +7083,8 @@
     ],
     "authors": [
       "Greenhaven Press"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465445102",
@@ -6585,7 +7095,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465451439",
@@ -6596,7 +7107,8 @@
     ],
     "authors": [
       "Elwyn Hartley Edwards"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1534504222",
@@ -6607,7 +7119,8 @@
     ],
     "authors": [
       "Lisa Idzikowski"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0525580433",
@@ -6620,7 +7133,8 @@
     "authors": [
       "Wade Hudson",
       "Cheryl Willis Hudson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465473378",
@@ -6631,7 +7145,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0451477316",
@@ -6643,7 +7158,8 @@
     ],
     "authors": [
       "Betsy Bird"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1945820241",
@@ -6665,7 +7181,8 @@
     "authors": [
       "Kel McDonald",
       "Kate Ashwin"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1912286831",
@@ -6677,7 +7194,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465481753",
@@ -6688,7 +7206,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1911238485",
@@ -6703,7 +7222,8 @@
     ],
     "authors": [
       "Mark Twain"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1911238639",
@@ -6721,7 +7241,8 @@
     ],
     "authors": [
       "Virgil"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1945820349",
@@ -6735,7 +7256,8 @@
     "authors": [
       "Kel McDonald",
       "Kate Ashwin"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1911238469",
@@ -6749,7 +7271,8 @@
     ],
     "authors": [
       "Arthur Conan Doyle"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "153450379X",
@@ -6761,7 +7284,8 @@
     ],
     "authors": [
       "Lisa Idzikowski"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1631582526",
@@ -6782,7 +7306,8 @@
     "authors": [
       "Racehorse for Young Readers",
       "The Brothers Grimm"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0439857775",
@@ -6798,7 +7323,8 @@
     "authors": [
       "R L Stine",
       "R. L. Stine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1492677698",
@@ -6810,7 +7336,8 @@
     ],
     "authors": [
       "America\u2019s Test Kitchen Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465486143",
@@ -6821,7 +7348,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1618372696",
@@ -6835,7 +7363,8 @@
     "authors": [
       "Good Housekeeping",
       "Susan Westmoreland"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1492688924",
@@ -6852,7 +7381,8 @@
     ],
     "authors": [
       "Kath Shackleton"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1521421811",
@@ -6872,7 +7402,8 @@
     ],
     "authors": [
       "Steve James"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1503044629",
@@ -6889,7 +7420,8 @@
     ],
     "authors": [
       "Clayton Geoffreys"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1091556504",
@@ -6903,7 +7435,8 @@
     ],
     "authors": [
       "Patrick Thompson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1546535144",
@@ -6912,7 +7445,8 @@
     "subjects": "-999",
     "authors": [
       "Jordan Lowe"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1609912195",
@@ -6923,7 +7457,8 @@
     ],
     "authors": [
       "Ripleys Believe It Or Not"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1609912861",
@@ -6934,7 +7469,8 @@
     ],
     "authors": [
       "Ripleys Believe It Or Not"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "184935099X",
@@ -6945,7 +7481,8 @@
     ],
     "authors": [
       "Matt Hern"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1682827534",
@@ -6958,7 +7495,8 @@
     ],
     "authors": [
       "Don Nardo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1405291354",
@@ -6970,7 +7508,8 @@
     ],
     "authors": [
       "Rubik\u2019s Cube"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1250245583",
@@ -6985,7 +7524,8 @@
     "authors": [
       "Born This Way Foundation Reporters",
       "Lady Gaga"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "076364661X",
@@ -6998,7 +7538,8 @@
     ],
     "authors": [
       "Donald R. Gallo"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0553512684",
@@ -7016,7 +7557,8 @@
       "Jarrett J. Krosoczka",
       "Victoria Jamieson",
       "Ben Hatke"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "055351265X",
@@ -7033,7 +7575,8 @@
       "Jarrett J. Krosoczka",
       "Peanuts",
       "Cece Bell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0448486733",
@@ -7052,7 +7595,8 @@
     ],
     "authors": [
       "Mike Winchell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1913484009",
@@ -7066,7 +7610,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1641290463",
@@ -7079,7 +7624,8 @@
     ],
     "authors": [
       "Sangu Mandanna"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1534421866",
@@ -7107,7 +7653,8 @@
       "Sangu Mandanna",
       "Phoebe North",
       "Karuna Riazi"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1250230012",
@@ -7119,7 +7666,8 @@
     "authors": [
       "Zoraida C\u00f3rdova",
       "Natalie C. Parker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1335146490",
@@ -7147,7 +7695,8 @@
       "Isabel Quintero",
       "Justine Larbalestier",
       "Lilliam Rivera"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0761160957",
@@ -7159,7 +7708,8 @@
     ],
     "authors": [
       "Workman Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0062495690",
@@ -7189,7 +7739,8 @@
       "Daniel Palmer",
       "Tonya Hurley",
       "Stephen Ross"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1646973259",
@@ -7198,7 +7749,8 @@
     "subjects": "-999",
     "authors": [
       "Scholastic"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1541917847",
@@ -7211,7 +7763,8 @@
     ],
     "authors": [
       "Baby Professor"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "154191225X",
@@ -7224,7 +7777,8 @@
     ],
     "authors": [
       "Baby Professor"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "153452570X",
@@ -7237,7 +7791,8 @@
     ],
     "authors": [
       "Robert M. Hamilton"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0593121627",
@@ -7254,7 +7809,8 @@
     "authors": [
       "Wade Hudson",
       "Cheryl Willis Hudson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0744039096",
@@ -7269,7 +7825,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1465493115",
@@ -7281,7 +7838,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1948703246",
@@ -7292,7 +7850,8 @@
     ],
     "authors": [
       "America's Test America's Test Kitchen Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1438089090",
@@ -7306,7 +7865,8 @@
     ],
     "authors": [
       "Stella Caldwell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787393089",
@@ -7317,7 +7877,8 @@
     ],
     "authors": [
       "Retro Gamer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1646430387",
@@ -7330,7 +7891,8 @@
     ],
     "authors": [
       "Cider Mill Press"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1788792769",
@@ -7341,7 +7903,8 @@
     ],
     "authors": [
       "Ryland Peters & Small"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787081001",
@@ -7359,7 +7922,8 @@
     ],
     "authors": [
       "Button Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1419740830",
@@ -7373,7 +7937,8 @@
     "authors": [
       "S. K. Ali",
       "Aisha Saeed"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1647223776",
@@ -7384,7 +7949,8 @@
     ],
     "authors": [
       "Insight Editions"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0593381602",
@@ -7396,7 +7962,8 @@
     "authors": [
       "Wade Hudson",
       "Cheryl Willis Hudson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1913484106",
@@ -7408,7 +7975,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615309098",
@@ -7417,7 +7985,8 @@
     "subjects": [
       "POPULAR MUSIC_HISTORY AND CRITICISM"
     ],
-    "authors": []
+    "authors": [],
+    "series": "None"
   },
   {
     "_id": "1414411669",
@@ -7432,7 +8001,8 @@
     "authors": [
       "Cynthia Johnson",
       "Lawrence W. Baker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1414411677",
@@ -7447,7 +8017,8 @@
     "authors": [
       "Cynthia Johnson",
       "Lawrence W. Baker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1414411685",
@@ -7462,7 +8033,8 @@
     "authors": [
       "Cynthia Johnson",
       "Lawrence W. Baker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1414411693",
@@ -7477,7 +8049,8 @@
     "authors": [
       "Cynthia Johnson",
       "Lawrence W. Baker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1414411707",
@@ -7492,7 +8065,8 @@
     "authors": [
       "Cynthia Johnson",
       "Lawrence W. Baker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1414411715",
@@ -7507,7 +8081,8 @@
     "authors": [
       "Cynthia Johnson",
       "Lawrence W. Baker"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "161530908X",
@@ -7518,7 +8093,8 @@
     ],
     "authors": [
       "Michael Ray"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "133834370X",
@@ -7538,7 +8114,8 @@
       "Darcie Little Badger",
       "Yamile Saied M\u00e9ndez",
       "Bethany C. Morrow"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0593379934",
@@ -7552,7 +8129,8 @@
     ],
     "authors": [
       "Kwame Mbalia"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1948174243",
@@ -7563,7 +8141,8 @@
     ],
     "authors": [
       "The Editors of MuggleNet"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615309063",
@@ -7577,7 +8156,8 @@
     ],
     "authors": [
       "Jeff Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1615309071",
@@ -7588,7 +8168,8 @@
     ],
     "authors": [
       "Jeffrey H. Wallenfeldt"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0593381688",
@@ -7599,7 +8180,8 @@
     ],
     "authors": [
       "Alice Wong"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0744039916",
@@ -7611,7 +8193,8 @@
     "authors": [
       "Shakirah Bourne",
       "Dana Alison Levy"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1459831373",
@@ -7625,7 +8208,8 @@
     "authors": [
       "Lindsay Herriot",
       "Kate Fry"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1974705056",
@@ -7636,7 +8220,8 @@
     ],
     "authors": [
       "Haruichi Furudate"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0844210579",
@@ -7648,7 +8233,8 @@
     ],
     "authors": [
       "Daniel J. Hochstatter"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1534503633",
@@ -7663,7 +8249,8 @@
     "authors": [
       "Lisa Idzikowski",
       "Pete Schauer"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1523510994",
@@ -7674,7 +8261,8 @@
     ],
     "authors": [
       "Diana Whitney"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1913484203",
@@ -7686,7 +8274,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1368070833",
@@ -7697,7 +8286,8 @@
     ],
     "authors": [
       "Rick Riordan"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "142223519X",
@@ -7709,7 +8299,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0744028647",
@@ -7723,7 +8314,8 @@
       "Pablo Hidalgo",
       "Daniel Wallace",
       "Ryder Windham"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1685054862",
@@ -7732,7 +8324,8 @@
     "subjects": "-999",
     "authors": [
       "DK Publishing"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1948703661",
@@ -7743,7 +8336,8 @@
     ],
     "authors": [
       "America's Test Kitchen Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0063239086",
@@ -7754,7 +8348,8 @@
     ],
     "authors": [
       "Ellen Oh"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1974738876",
@@ -7765,7 +8360,8 @@
     ],
     "authors": [
       "Rainbow Rowell"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1452151962",
@@ -7776,7 +8372,8 @@
     ],
     "authors": [
       "@cats_of_instagram"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1954210248",
@@ -7787,7 +8384,8 @@
     ],
     "authors": [
       "America's Test Kitchen Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1725349469",
@@ -7803,7 +8401,8 @@
     ],
     "authors": [
       "Scientific American Scientific American Editors"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0744036704",
@@ -7814,7 +8413,8 @@
     ],
     "authors": [
       "DK"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1913484378",
@@ -7826,7 +8426,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1588347540",
@@ -7839,7 +8440,8 @@
     ],
     "authors": [
       "Tom Jones"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1950785300",
@@ -7850,7 +8452,8 @@
     ],
     "authors": [
       "Food Network Magazine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1642822124",
@@ -7864,7 +8467,8 @@
     ],
     "authors": [
       "he New York Times"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426375093",
@@ -7876,7 +8480,8 @@
     ],
     "authors": [
       "National Geographic Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1541984773",
@@ -7889,7 +8494,8 @@
     ],
     "authors": [
       "Dissected Lives"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1541994345",
@@ -7902,7 +8508,8 @@
     ],
     "authors": [
       "Dissected Lives"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787081362",
@@ -7917,7 +8524,8 @@
     ],
     "authors": [
       "Great Lives in Graphics"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "142224640X",
@@ -7930,7 +8538,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1422246450",
@@ -7943,7 +8552,8 @@
     ],
     "authors": [
       "Mason Crest"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787081028",
@@ -7961,7 +8571,8 @@
     ],
     "authors": [
       "Button Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787081214",
@@ -7975,7 +8586,8 @@
     ],
     "authors": [
       "Button Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787081141",
@@ -7993,7 +8605,8 @@
     ],
     "authors": [
       "Button Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1787081338",
@@ -8008,7 +8621,8 @@
     ],
     "authors": [
       "Great Lives in Graphics"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "178708051X",
@@ -8024,7 +8638,8 @@
     ],
     "authors": [
       "Button Books"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1541984676",
@@ -8037,7 +8652,8 @@
     ],
     "authors": [
       "Dissected Lives"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1541973526",
@@ -8053,7 +8669,8 @@
     ],
     "authors": [
       "Dissected Lives"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "125081071X",
@@ -8065,7 +8682,8 @@
     "authors": [
       "Dahlia Adler",
       "Jennifer Iacopelli"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1913484564",
@@ -8079,7 +8697,8 @@
     ],
     "authors": [
       "Guinness World Records"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1368098967",
@@ -8098,7 +8717,8 @@
     ],
     "authors": [
       "Leah Johnson"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1669072150",
@@ -8119,7 +8739,8 @@
       "Laurie S. Sutton",
       "Michael Dahl",
       "Megan Atwood"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1669072088",
@@ -8139,7 +8760,8 @@
       "Benjamin Harper",
       "Laurie S. Sutton",
       "Megan Atwood"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426373309",
@@ -8155,7 +8777,8 @@
     ],
     "authors": [
       "National Geographic"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "0142417742",
@@ -8167,7 +8790,8 @@
     ],
     "authors": [
       "R. L. Stine"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426372418",
@@ -8183,7 +8807,8 @@
     ],
     "authors": [
       "National Geographic Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426375352",
@@ -8194,7 +8819,8 @@
     ],
     "authors": [
       "National Geographic Kids"
-    ]
+    ],
+    "series": "None"
   },
   {
     "_id": "1426333722",
@@ -8206,6 +8832,7 @@
     ],
     "authors": [
       "National Geographic Kids"
-    ]
+    ],
+    "series": "None"
   }
 ]
