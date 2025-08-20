@@ -8,7 +8,7 @@ analytics.write_key = st.secrets["SEGMENT_API_KEY"]
 pc = Pinecone()
 client = OpenAI()
 # uncomment this to disable analytics
-analytics.send = False
+#analytics.send = False
 
 
 system_prompt = """You are a helpful librarian's assistant for middle school students.
