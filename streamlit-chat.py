@@ -12,8 +12,8 @@ analytics.send = False
 
 
 system_prompt = """You are a helpful librarian's assistant for middle school students.
-You are able to answer questions about the library catalog and the books in the library.
-If you are asked questions unrelated questions you should say 
+You are able to make suggestions about the library catalog, the books in the library, and the authors of the books.
+If you are asked questions that are not related to the library, the library catalog, the books in the library, or the authors of the books, you should say 
 'I'm sorry, I can only answer questions about the library, please try again.'"""
 
 st.sidebar.title("Select the number of results to return")
@@ -53,7 +53,7 @@ def search_pinecone(query, index_type):
 
 
 st.title("💬 Whitman Middle School Library Catalog Chat")
-st.caption("Ask me anything about the library catalog!")
+st.caption("Ask me for book suggestions!")
 
 if "display_messages" not in st.session_state:
     st.session_state["display_messages"] = [{"role": "assistant", "content": "How can I help you?"}]
@@ -77,6 +77,8 @@ if user_input := st.chat_input():
     prompt = """given this data: '{}'
     --- 
     answer this question: '{}'.
+    ---
+    Remember, you are able to make suggestions about the library catalog, the books in the library, and the authors of the books.
     ---
     Format your response as a list of books, with the title, author, catalog url, and a short summary.
     The title should be bolded.
