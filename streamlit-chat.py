@@ -8,8 +8,6 @@ analytics.write_key = st.secrets["SEGMENT_API_KEY"]
 pc = Pinecone()
 client = OpenAI()
 
-analytics.send = True
-
 
 system_prompt = """You are a helpful librarian's assistant for middle school students.
 You are able to make suggestions about the library catalog, the books in the library, and the authors of the books.
@@ -19,7 +17,7 @@ If you are asked questions that are not related to the library, the library cata
 st.sidebar.title("Select the number of results to return")
 num_results = st.sidebar.slider("Number of results", min_value=1, max_value=10, value=3)
 
-def search_pinecone(query, index_type):
+def search_pinecone(query, index_type, message_counter):
 
     if index_type == "dense":
         index_name = "whitman-dense"
@@ -47,7 +45,7 @@ def search_pinecone(query, index_type):
     for hit in reranked_results['result']['hits']:
         hit_dict = hit.to_dict()
         json_hit = json.dumps(hit_dict)
-        analytics.track('null', event="search_result", properties={"search_result": json_hit, "index_type": index_type})
+        analytics.track('null', event="search_result", properties={"search_result": json_hit, "index_type": index_type, "message_counter": message_counter})
     
     return reranked_results['result']['hits']
 
@@ -64,12 +62,12 @@ if "context_messages" not in st.session_state:
 for msg in st.session_state.display_messages:
     st.chat_message(msg["role"]).write(msg["content"])
 
-message_counter = 0
+message_counter = 1
 if user_input := st.chat_input():
 
 
-    dense_search_results = search_pinecone(user_input, "dense")
-    sparse_search_results = search_pinecone(user_input, "sparse")
+    dense_search_results = search_pinecone(user_input, "dense", message_counter)
+    sparse_search_results = search_pinecone(user_input, "sparse", message_counter)
 
     search_results = dense_search_results + sparse_search_results
     print(search_results)
