@@ -17,6 +17,13 @@ If you are asked questions that are not related to the library, the library cata
 st.sidebar.title("Select the number of results to return")
 num_results = st.sidebar.slider("Number of results", min_value=1, max_value=10, value=3)
 
+st.sidebar.title("Provide Feedback")
+sentiment_mapping = [":material/thumb_down:", ":material/thumb_up:"]
+selected = st.sidebar.feedback("thumbs")
+if selected is not None:
+    analytics.track('null', event="feedback", properties={"last_response": st.session_state.display_messages[-1]["content"], "message_counter": st.session_state.message_counter, "sentiment": sentiment_mapping[selected]})
+    st.markdown(f"Thank you for your feedback! You selected: {sentiment_mapping[selected]}")
+
 def search_pinecone(query, index_type, message_counter):
 
     if index_type == "dense":
@@ -40,8 +47,6 @@ def search_pinecone(query, index_type, message_counter):
         }   
     )
 
-    print(reranked_results)
-
     for hit in reranked_results['result']['hits']:
         hit_dict = hit.to_dict()
         json_hit = json.dumps(hit_dict)
@@ -59,18 +64,18 @@ if "display_messages" not in st.session_state:
 if "context_messages" not in st.session_state:
     st.session_state["context_messages"] = [{"role": "assistant", "content": "How can I help you?"}]
 
+if "message_counter" not in st.session_state:
+    st.session_state["message_counter"] = 1
+
 for msg in st.session_state.display_messages:
     st.chat_message(msg["role"]).write(msg["content"])
 
-message_counter = 1
 if user_input := st.chat_input():
 
-
-    dense_search_results = search_pinecone(user_input, "dense", message_counter)
-    sparse_search_results = search_pinecone(user_input, "sparse", message_counter)
+    dense_search_results = search_pinecone(user_input, "dense", st.session_state.message_counter)
+    sparse_search_results = search_pinecone(user_input, "sparse", st.session_state.message_counter)
 
     search_results = dense_search_results + sparse_search_results
-    print(search_results)
 
     prompt = """given this data: '{}'
     --- 
@@ -92,17 +97,17 @@ if user_input := st.chat_input():
     # Add user's actual question to display messages
     st.session_state.display_messages.append({"role": "user", "content": user_input})
     st.chat_message("user").write(user_input)
-    analytics.track('null',event="user_input", properties={"user_input": user_input, "message_counter": message_counter})
+    analytics.track('null',event="user_input", properties={"user_input": user_input, "message_counter": st.session_state.message_counter})
     
     # Add full prompt with search results to context messages for the model
     st.session_state.context_messages.append({"role": "user", "content": prompt})
     with st.status("Thinking..."):
         response = client.responses.create(model="gpt-4o-mini", input=st.session_state.context_messages, instructions=system_prompt)
         msg = response.output_text
-        analytics.track('null', event="assistant_response", properties={"assistant_response": msg, "message_counter": message_counter})
+        analytics.track('null', event="assistant_response", properties={"assistant_response": msg, "message_counter": st.session_state.message_counter})
     
     # Add assistant response to both display and context messages
     st.session_state.display_messages.append({"role": "assistant", "content": msg})
     st.session_state.context_messages.append({"role": "assistant", "content": msg})
     st.chat_message("assistant").markdown(msg)
-    message_counter += 1
+    st.session_state.message_counter += 1
