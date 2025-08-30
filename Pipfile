@@ -13,6 +13,8 @@ segment-analytics-python = "*"
 boto3 = "*"
 transformers = "*"
 torch = "*"
+pydantic = "*"
+fastapi = {extras = ["standard"], version = "*"}
 
 [dev-packages]
 ipykernel = "*"
