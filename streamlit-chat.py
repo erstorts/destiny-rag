@@ -1,10 +1,10 @@
 from openai import OpenAI
 import streamlit as st
 from pinecone import Pinecone
-import segment.analytics as analytics
+#import segment.analytics as analytics
 import json
 
-analytics.write_key = st.secrets["SEGMENT_API_KEY"]
+#analytics.write_key = st.secrets["SEGMENT_API_KEY"]
 pc = Pinecone()
 client = OpenAI()
 
@@ -21,7 +21,7 @@ st.sidebar.title("Provide Feedback")
 sentiment_mapping = [":material/thumb_down:", ":material/thumb_up:"]
 selected = st.sidebar.feedback("thumbs")
 if selected is not None:
-    analytics.track('null', event="feedback", properties={"last_response": st.session_state.display_messages[-1]["content"], "message_counter": st.session_state.message_counter, "sentiment": sentiment_mapping[selected]})
+    #analytics.track('null', event="feedback", properties={"last_response": st.session_state.display_messages[-1]["content"], "message_counter": st.session_state.message_counter, "sentiment": sentiment_mapping[selected]})
     st.markdown(f"Thank you for your feedback! You selected: {sentiment_mapping[selected]}")
 
 def search_pinecone(query, index_type, message_counter):
@@ -50,7 +50,7 @@ def search_pinecone(query, index_type, message_counter):
     for hit in reranked_results['result']['hits']:
         hit_dict = hit.to_dict()
         json_hit = json.dumps(hit_dict)
-        analytics.track('null', event="search_result", properties={"search_result": json_hit, "index_type": index_type, "message_counter": message_counter})
+        #analytics.track('null', event="search_result", properties={"search_result": json_hit, "index_type": index_type, "message_counter": message_counter})
     
     return reranked_results['result']['hits']
 
@@ -97,14 +97,14 @@ if user_input := st.chat_input():
     # Add user's actual question to display messages
     st.session_state.display_messages.append({"role": "user", "content": user_input})
     st.chat_message("user").write(user_input)
-    analytics.track('null',event="user_input", properties={"user_input": user_input, "message_counter": st.session_state.message_counter})
+    #analytics.track('null',event="user_input", properties={"user_input": user_input, "message_counter": st.session_state.message_counter})
     
     # Add full prompt with search results to context messages for the model
     st.session_state.context_messages.append({"role": "user", "content": prompt})
     with st.status("Thinking..."):
         response = client.responses.create(model="gpt-4o-mini", input=st.session_state.context_messages, instructions=system_prompt)
         msg = response.output_text
-        analytics.track('null', event="assistant_response", properties={"assistant_response": msg, "message_counter": st.session_state.message_counter})
+        #analytics.track('null', event="assistant_response", properties={"assistant_response": msg, "message_counter": st.session_state.message_counter})
     
     # Add assistant response to both display and context messages
     st.session_state.display_messages.append({"role": "assistant", "content": msg})
